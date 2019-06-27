@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\bin\Debug\exemplinho.exe.config
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\bin\Debug\exemplinho.exe
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\bin\Debug\exemplinho.pdb
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.Form1.resources
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.Properties.Resources.resources
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.exe
+C:\Users\Aluno\source\repos\exemplinho\exemplinho\obj\Debug\exemplinho.pdb
